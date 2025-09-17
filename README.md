@@ -5,14 +5,22 @@
 Text to Summary: Enter a piece of text, and the application will generate a summary of the text.
 
 🚀 Features
+
 ✅ Image to Text conversion using Optical Character Recognition (OCR).
+
 ✅ Text to Summary generation using Natural Language Processing.
+
 ✅ User-friendly web interface.
+
 ✅ Easily customizable and extensible codebase.
+
 ✅ Docker support for easy deployment.
 
+
 📝 Setup and Usage
+
 Prerequisites
+
 Python 3.7+
 Running the Application
 Clone the repository: git clone https://github.com/sajjad1105/Image-Text-Summarizer
@@ -25,7 +33,10 @@ Use the "Image to Text" or "Text to Summary" sections as needed.
 Follow the on-screen instructions to perform the desired task.
 
 🛠️ Technology Stack
+
 Flask
+
 Tesseract OCR (for image-to-text)
+
 NLTK (Natural Language Toolkit) for text summarization
 image
