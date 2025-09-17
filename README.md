@@ -40,3 +40,4 @@ Tesseract OCR (for image-to-text)
 
 NLTK (Natural Language Toolkit) for text summarization
 image
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/4ee579ed-aafc-4de9-b0c1-0e026eadf14c" />
