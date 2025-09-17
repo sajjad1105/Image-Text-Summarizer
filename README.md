@@ -35,7 +35,9 @@ Follow the on-screen instructions to perform the desired task.
 🛠️ Technology Stack
 
 Flask
+
 Tesseract OCR (for image-to-text)
+
 NLTK (Natural Language Toolkit) for text summarization
 
 image
