@@ -15,7 +15,7 @@ Text to Summary: Enter a piece of text, and the application will generate a summ
 Prerequisites
 Python 3.7+
 Running the Application
-Clone the repository: git clone https://github.com/pitabasdev/auto-summary-generation
+Clone the repository: git clone https://github.com/sajjad1105/Image-Text-Summarizer
 Change directory: cd auto-summary-generation
 Start the Flask app: python app.py
 Access the application in your web browser at http://localhost:5000
