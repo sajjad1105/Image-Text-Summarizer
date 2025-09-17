@@ -1,8 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for
 from PIL import Image
-
 import pytesseract
-
 from summa import summarizer
 
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
