@@ -186,6 +186,7 @@ wikipedia==1.4.0
 win10toast==0.9
 wrapt==1.14.1
 yagmail==0.15.277
+
 yarl==1.8.2
 
 zipp==3.9.0

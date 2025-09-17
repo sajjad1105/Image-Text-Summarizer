@@ -26,7 +26,7 @@ Usage
 
 Navigate to the application's home page.
 Use the "Image to Text" or "Text to Summary" sections as needed.
-Follow the on-screen instructions to perform the desired task.
+Follow the on-screen instructions to perform the desired tasks.
 🛠️ Technology Stack
 
 Flask
